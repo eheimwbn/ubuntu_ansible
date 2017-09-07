@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu
 MAINTAINER eheimwbn@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
