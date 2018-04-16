@@ -12,3 +12,5 @@ RUN apt-get update -y && \
         add-apt-repository ppa:jonathonf/python-2.7 && \
         apt-get update && apt-get -y upgrade && \
         apt-get -y install ansible python2.7
+        
+        
